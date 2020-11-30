@@ -1,0 +1,2 @@
+Conlan, K., Baggili, I., & Breitinger, F. (2016). Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy. Digital Investigation (18), 66–75.
+Hosgor, E. C. (2018). Detection and Mitigation of Anti-Forensics Using Forensic Tools. Naval Postgraduate School Monterey United States.
